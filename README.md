@@ -11,7 +11,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 And this package contains picture of this project.
 
 ## Used Sills 
-Java core, Java Swing, MySQL database, JDBC
+   *  Java core
+   *  Java Swing
+   *  MySQL database
+   *  JDBC
 
 ## Feature
     *  Add new teacher
