@@ -10,7 +10,7 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 And this package contains picture of this project.
 
-## Used Sills
+## Used Sills 
 Java core, Java Swing, MySQL database, JDBC
 
 ## Feature
